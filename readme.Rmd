@@ -11,7 +11,7 @@ Data from the publication:
 
 
 
-Marlen Mährlein^1\*^, Marlene Pätzig^2\,\ 3\*^, Mario Brauns^1\,\ 4^, Andrew M. Dolman^2^
+Marlen Mährlein<sup>1*</sup>, Marlene Pätzig<sup>2, 3*</sup>, Mario Brauns<sup>1, 4</sup>, Andrew M. Dolman<sup>2</sup>
 
 
 \* Authors contributed equally to the article
