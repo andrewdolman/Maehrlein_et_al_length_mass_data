@@ -4,7 +4,7 @@ output:
     fig_caption: yes
 ---
 
-## ESM_3. Example **R** code for estimating length-mass relationships by fitting log-linear models.
+## ESM_1. Example **R** code for estimating length-mass relationships by fitting log-linear models.
 
 **Length-mass relationships for lake macroinvertebrates corrected for back transformation and preservation effects.**
 
