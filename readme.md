@@ -30,5 +30,8 @@ Data are located in folders *data/excel* and *data/csv*
 Files ending in "_key" give descriptions for each variable in their corresponding "_archive" files.
 
 
+Example R code can be found here https://github.com/andrewdolman/Maehrlein_et_al_length_mass_data/examples/
+
+
 
 
